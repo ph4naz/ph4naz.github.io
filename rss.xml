@@ -2,10 +2,10 @@
 layout: nil
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http:/www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="http://ph4naz.github.io//rss.xml" rel="self" type="application/rss+xml" />
-    <title>paperplanes</title>
+    <atom:link href="http:/ph4naz.github.io/rss.xml" rel="self" type="application/rss+xml" />
+    <title>homework for 1418019</title>
     <link>http://ph4naz.github.io</link>
     <language>zh-cn</language>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
@@ -20,7 +20,7 @@ layout: nil
       <guid>http://ph4naz.github.io{{ post.url }}</guid>
       <description>{{ post.content | xml_escape }}</description>
       {% for topic in post.topics %}
-      <category domain="http://ph4naz.github.io/tags/{{ topic }}">{{ topic }}</category>
+      <category domain="http:/ph4naz.github.io/tags/{{ topic }}">{{ topic }}</category>
       {% endfor %}
     </item>
     {% endfor %}
