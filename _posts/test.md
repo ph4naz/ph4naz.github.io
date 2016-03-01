@@ -1,6 +1,7 @@
 ---
 layout:post
 title:A test
+topics:nothing
 ---
 
 This is a test for github-markdown
