@@ -2,10 +2,10 @@
   -webkit-text-size-adjust: 300%;
 }
 
-.default {
+/*.default {
   display: none;
 }
-
+*/
 .mobile {
   display: inherit;
 }
