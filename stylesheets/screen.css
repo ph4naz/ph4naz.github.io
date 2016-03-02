@@ -47,7 +47,11 @@ html>body #box {
   padding-bottom: 10px;
   padding-left: 10px;
   margin: 20px 20px;
-  line-height: 21px;
+  /*line-height: 21px;*/
+}
+
+.item_content p{
+  margin: 6px 0px;
 }
 
 #footer {
@@ -163,7 +167,6 @@ h3 {
     padding-bottom: 6px;
 }
 h4, .item_meta {
-    line-height: 1.2em;
     font-size: 14px;
     color: #777;
     font-weight: normal;
