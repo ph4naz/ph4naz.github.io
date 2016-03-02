@@ -253,3 +253,9 @@ li {
   padding-top: 10px;
   padding-bottom: 10px;
 }
+
+
+.bottom_tools { position: fixed; z-index: 1070; right: 40px; bottom: 60px; display: block; width: 55px; height: 55px; }
+.bottom_tools>* { font: 0/0 a; display: block; margin-top: 5px; color: transparent; border: 0; background-color: transparent; text-shadow: none }
+.bottom_tools a {display: block;width: 134px;height: 55px; background: url(images/top.png) no-repeat left top;}
+.bottom_tools a:hover { background: url(images/top.png) no-repeat left bottom; }
