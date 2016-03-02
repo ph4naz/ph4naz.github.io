@@ -105,6 +105,7 @@ html>body #box {
   position: fixed;
   bottom: inherit;
   right: 25px;
+  padding-top: 0.5cm
 }
 
 #head #about {
