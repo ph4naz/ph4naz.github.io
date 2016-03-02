@@ -93,12 +93,12 @@ html>body #box {
   margin: 0px auto;
 }
 
-#header-content #paperplane {
-  transform: rotate(290deg) scale(0.9);
-  -webkit-transform: rotate(290deg) scale(0.9);
-  -moz-transform: rotate(290deg) scale(0.9);
-  float: right;
-  margin-top: -30px;
+#header-content #feed {
+  max-width: 39px;
+  margin: 0px auto;
+  position: fixed;
+  bottom: inherit;
+  right: 25px;
 }
 
 #head #about {
