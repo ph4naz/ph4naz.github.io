@@ -43,7 +43,7 @@
     </div>
 
     <div class="bottom_tools" style="bottom: 40px;">
-      <a id="scrollUp" href="javascript:;" title="back-top" style="display: block;">
+      <a id="scrollUp" href="javascript:;" title="back-top" style="display: none;">
       </a>
     </div>
 
@@ -57,5 +57,14 @@
       ga('send', 'pageview');
 
     </script>
+    <script type="text/javascript">
+       $(window).scroll(function(event){
+    if($(document).scrollTop()!=0) 
+      $("#scrollUp").fadeIn(); 
+    else 
+      $("#scrollUp").fadeOut();
+    });
+    </script>
+
   </body>
 </html>
