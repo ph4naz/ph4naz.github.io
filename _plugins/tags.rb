@@ -1,4 +1,4 @@
-module Paperplanes
+module ph4naz
   class TagPage < Jekyll::Page
     def initialize(site, base, category, posts)
       @site = site
