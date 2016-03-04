@@ -13,7 +13,7 @@ layout: default
         return (returns + "") == "undefined"? "": returns;
     });
 };
-    var Jsondata = $.get('/post.json',function(){
+    var Jsondata = $.get('post.json',function(){
       getdata = JSON.parse(Jsondata.responseText);
       curTag = $.query.get("tags");
       archieves = getdata[0][curTag]; 
