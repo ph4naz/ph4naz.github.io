@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<script language="javascript" src="jquery.query.js">  </script>
+<script type="text/javascript">
+var dataStr = '{ {% for tags in site.tags %}{% if tags[0] != site.tags.first[0] %},{% endif %}"{{ tags[0] }}":[{% for post in tags[1] %}{% if post != tags[1].first %},{% endif %}{"url":"{{post.url}}", "title":"{{post.title}}", "date":"{{post.date | date:"%d/%m/%Y"}}"}{% endfor %}]{% endfor %} }',
+    data = JSON.parse(dataStr),
+    curTag = $.query.get("tags"),
+    archieves = data[curTag];
+</script>
+
