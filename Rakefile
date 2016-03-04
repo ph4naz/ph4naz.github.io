@@ -16,43 +16,43 @@ namespace :site do
     site = Jekyll::Site.new('.', File.join('.', '_site'))
     site.read_posts('.')
     
-    tags = site.posts.collect do |post|
-      post.tags
-    end.flatten.uniq!
+#     tags = site.posts.collect do |post|
+#       post.tags
+#     end.flatten.uniq!
     
-    FileUtils.mkdir_p("tags")
-    tags.each do |tags|
-      tag_template =<<-END
----
-layout: default
-title: "Tag archive: #{tags}"
----
-  {% for post in site.tags.#{tags} %}
-  <div class="item">
-    <div class="item_details">
-      <h3><a href="{{ post.url }}">{{ post.title }}</h3>
-      <h4>Posted  on <a href="{{ post.url }}" title="Permalink for this post">{{ post.date | date_to_string }}</a></h4>
-    </div>
-    <div class="item_content">
-      {{ post.content }}
-    </div>
-    <div class="item_meta">
-      <span class="item_tags">
-        Tags: 
-        {% for tags in post.tags %}
-        <a href="http://ph4naz.github.io/tags/{{ tags }}.html" title="View posts tagged with &quot;{{ tags }}&quot;">{{ tags }}</a>{% if forloop.last != true %}, {% endif %}
-        {% endfor %}
-      </span>
-    </div>
-  </div>
-  {% endfor %}
-</ul>
-END
-      File.open("tags/#{tags}.html", "w") do |f|
-        f.write(tag_template)
-      end
-    end
-  end
+#     FileUtils.mkdir_p("tags")
+#     tags.each do |tags|
+#       tag_template =<<-END
+# ---
+# layout: default
+# title: "Tag archive: #{tags}"
+# ---
+#   {% for post in site.tags.#{tags} %}
+#   <div class="item">
+#     <div class="item_details">
+#       <h3><a href="{{ post.url }}">{{ post.title }}</h3>
+#       <h4>Posted  on <a href="{{ post.url }}" title="Permalink for this post">{{ post.date | date_to_string }}</a></h4>
+#     </div>
+#     <div class="item_content">
+#       {{ post.content }}
+#     </div>
+#     <div class="item_meta">
+#       <span class="item_tags">
+#         Tags: 
+#         {% for tags in post.tags %}
+#         <a href="http://ph4naz.github.io/tags/{{ tags }}.html" title="View posts tagged with &quot;{{ tags }}&quot;">{{ tags }}</a>{% if forloop.last != true %}, {% endif %}
+#         {% endfor %}
+#       </span>
+#     </div>
+#   </div>
+#   {% endfor %}
+# </ul>
+# END
+#       File.open("tags/#{tags}.html", "w") do |f|
+#         f.write(tag_template)
+#       end
+#     end
+#   end
   
   namespace :jekyll do
     task :server do
