@@ -3,7 +3,7 @@ markdown: kramdown
 # kramdown:
 #   input: GFM
 permalink: /:year/:i_month/:i_day/:title.html 
-exclude: [Rakefile, Gemfile, Gemfile.lock, README.markdown, Capfile, bin, tmp, Attachments]
+exclude: ["Rakefile", "Gemfile", "Gemfile.lock", "README.markdown", "Capfile", "bin", "tmp", "Attachments"]
 paginate: 3
 gems: [jekyll-paginate]
 #relative_permalinks: true
