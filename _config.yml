@@ -1,5 +1,4 @@
-kramdown:
-  input: GFM
+markdown: redcarpet
 permalink: /:year/:i_month/:i_day/:title.html
 exclude: [Rakefile, Gemfile, Gemfile.lock, README.markdown, Capfile, bin, tmp]
 paginate: 3
