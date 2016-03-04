@@ -16,7 +16,7 @@ layout: default
     {% if page.tags != empty %}
       <div class="item_tags">Tags:
         {% for tag in page.tags %}
-        <a href="tag/tag.html?tags={{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
+        <a href="{{site.baseurl}}/tag/tag.html?tags={{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
         {% endfor %}
       </div>
     {% endif %}
