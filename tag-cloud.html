@@ -1,0 +1,20 @@
+---
+title: Tags cloud
+layout: default
+---
+<script src="/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script>
+<script language="javascript">
+  $.fn.tagcloud.defaults = {
+  size: {
+    start: 12,
+    end: 22,
+    unit: 'px'
+},
+color: {
+  start: '#7CCD7C',
+  end: '#2B7598'
+}
+};
+
+  $('#tag_cloud a').tagcloud();
+</script>
