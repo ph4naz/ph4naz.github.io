@@ -252,5 +252,5 @@ li {
 
 .bottom_tools { position: fixed; z-index: 1070; right: 40px; bottom: 60px; display: block; width: 55px; height: 55px; }
 .bottom_tools>* { font: 0/0 a; display: block; margin-top: 5px; color: transparent; border: 0; background-color: transparent; text-shadow: none }
-.bottom_tools a {display: block;width: 134px;height: 65px; background: url(http://ph4naz.github.io/images/top.png) no-repeat left top;}
-.bottom_tools a:hover { background: url(http://ph4naz.github.io/images/top.png) no-repeat left bottom; }
+.bottom_tools a {display: block;width: 134px;height: 65px; background: url("/images/top.png") no-repeat left top;}
+.bottom_tools a:hover { background: url("/images/top.png") no-repeat left bottom; }

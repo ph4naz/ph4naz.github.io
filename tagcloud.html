@@ -4,41 +4,11 @@ layout: default
 ---
 
 
-<div id="tag_cloud">
-	<script src="/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script>
-<script language="javascript">
-  $.fn.tagcloud.defaults = {
-  size: {
-    start: 12,
-    end: 22,
-    unit: 'px'
-},
-color: {
-  start: '#7CCD7C',
-  end: '#2B7598'
-}
-};
-
-  $('#tag_cloud a').tagcloud();
-</script>
-</div>
-
-<section class="content">
-	<article id="index">
-	<h2>所有分类标签：</h2>
-	<div id="tag_cloud">
-	{% for tag in site.tags %}
-	<a href="javascript:;" onclick="showTag('{{ tag[0] }}')" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
-	{% endfor %}
-	</div>
-
-	</article>
-</section>
-
-<div id="tag_sidebar">
+<h2>所有标签：</h2>
   {% for tag in site.tags %}
-  <a href="{{site.baseurl}}/tag/tag.html?tag={{tag[0] | cgi}}" title="{{ tag[0] }}">
+  <a href="{{site.baseurl}}/tag/tag.html?tags={{tag[0] | cgi}}" title="{{ tag[0] }}">
     {{ tag[0] }}<sup>{{ tag[1].size }}</sup>&nbsp;
   </a>
   {% endfor %}
-</div>
+
+
