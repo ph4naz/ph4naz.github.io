@@ -2,7 +2,7 @@
 layout: default
 ---
 <script language="javascript" src="jquery.query.js">  </script>
-<script type="text" src="post.json"></script>
+<script type="text" src="post.json" charset="utf-8"></script>
 <script type="text/javascript" >
     String.prototype.temp = function(obj) {
     //返回替换后的值
@@ -13,8 +13,6 @@ layout: default
         return (returns + "") == "undefined"? "": returns;
     });
 };
-
-
     var Jsondata = $.get('/post.json',function(){
       getdata = JSON.parse(Jsondata.responseText);
       curTag = $.query.get("tags");
