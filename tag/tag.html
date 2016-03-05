@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<script language="javascript" src="jquery.query.js">  </script>
+<script type="text" src="post.json" charset="utf-8"></script>
+<script type="text/javascript" >
+    String.prototype.temp = function(obj) {
+    //返回替换后的值
+    return this.replace(/\$\w+\$/gi, function(matchs) {
+      //matchs输出符合正则表达式"$\w+\$"的所有字符串,如$data$
+      //matchs.replace(/\$/g, "")就是将$替换为"",如$data$替换后为data
+        var returns = obj[matchs.replace(/\$/g, "")];
+        return (returns + "") == "undefined"? "": returns;
+    });
+};
+    var Jsondata = $.get('post.json',function(){
+      getdata = JSON.parse(Jsondata.responseText);
+      curTag = $.query.get("tags");
+      archieves = getdata[0][curTag]; 
+      var htmlList_notice = "";
+      var htmlTemp = $("#item_details").html();
+      archieves.forEach(function(object) {
+      htmlList_notice += htmlTemp.temp(object);
+      });
+      $("#item_details").html(htmlList_notice);    
+    });
+  
+</script>
+
+
+<div id="item_details">
+  <head>
+    <h3 class="entry-title"><a href=$url$ title="Permalink for this post">$title$</a></h3>
+    <h4><a href=$url$ title="Permalink for this post">$date$</a> by <a href="http://www.github.com/ph4naz">ph4naz</a></h4>
+    <p></p>
+    </div>  
+  </head>

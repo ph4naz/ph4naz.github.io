@@ -1,0 +1,14 @@
+---
+title: Tags cloud
+layout: default
+---
+
+
+<h2>所有标签：</h2>
+  {% for tag in site.tags %}
+  <a href="{{site.baseurl}}/tag/tag.html?tags={{tag[0] | cgi}}" title="{{ tag[0] }}">
+    {{ tag[0] }}<sup>{{ tag[1].size }}</sup>&nbsp;
+  </a>
+  {% endfor %}
+
+

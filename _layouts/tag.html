@@ -14,10 +14,9 @@ layout: default
       <span class="item_tags">
         Tags: 
         {% for tag in post.tags %}
-        <a href="/tags/{{ tag }}.html" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
+        <a href="http://ph4naz.github.io/tags/{{ tag }}.html" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
         {% endfor %}
       </span>
     </div>
   </div>
   {% endfor %}
-</ul>
