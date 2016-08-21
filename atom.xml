@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://1418019.top/"/>
-  <updated>2016-08-21T08:38:49.000Z</updated>
+  <updated>2016-08-21T14:30:16.000Z</updated>
   <id>http://1418019.top/</id>
   
   <author>
@@ -14,6 +14,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>密码学课程整理（长期更新）</title>
+    <link href="http://1418019.top/2016/08/21/%E5%AF%86%E7%A0%81%E5%AD%A6%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86%EF%BC%88%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%EF%BC%89/"/>
+    <id>http://1418019.top/2016/08/21/密码学课程整理（长期更新）/</id>
+    <published>2016-08-21T14:14:31.000Z</published>
+    <updated>2016-08-21T14:30:16.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>#不要忘记coursera课程上的deadline</p>
+<h2 id="第一周option-维吉尼亚密码"><a href="#第一周option-维吉尼亚密码" class="headerlink" title="第一周option 维吉尼亚密码"></a>第一周option 维吉尼亚密码</h2><ul>
+<li>Programming Assignment 1 （见群文件）</li>
+<li>参考书籍: Introduction to Modern Cryptography (2nd edition) (Page 14)</li>
+<li>发布日期：2016.08.17 (无时间限制，做出后发给教师)</li>
+</ul>
+<h2 id="练习网站"><a href="#练习网站" class="headerlink" title="练习网站"></a>练习网站</h2><ul>
+<li>(cryptopals)[<a href="http://www.cryptopals.com/" target="_blank" rel="external">http://www.cryptopals.com/</a>] </li>
+<li>(KhanAcademy)[<a href="https://www.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/cryptochallenge-introduction" target="_blank" rel="external">https://www.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/cryptochallenge-introduction</a>]</li>
+</ul>
+<blockquote>
+<p>ps:如果有缺少的部分，联系我或者直接补上都可以，thx</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;#不要忘记coursera课程上的deadline&lt;/p&gt;
+&lt;h2 id=&quot;第一周option-维吉尼亚密码&quot;&gt;&lt;a href=&quot;#第一周option-维吉尼亚密码&quot; class=&quot;headerlink&quot; title=&quot;第一周option 维吉尼亚密码&quot;&gt;&lt;/a&gt;第一周op
+    
+    </summary>
+    
+    
+      <category term="密码学" scheme="http://1418019.top/tags/%E5%AF%86%E7%A0%81%E5%AD%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>作业总结</title>
@@ -194,33 +228,6 @@
   </entry>
   
   <entry>
-    <title>近期实验及补修上课地点安排</title>
-    <link href="http://1418019.top/2016/05/29/%E8%BF%91%E6%9C%9F%E5%AE%9E%E9%AA%8C%E5%8F%8A%E8%A1%A5%E4%BF%AE%E4%B8%8A%E8%AF%BE%E5%9C%B0%E7%82%B9%E5%AE%89%E6%8E%92/"/>
-    <id>http://1418019.top/2016/05/29/近期实验及补修上课地点安排/</id>
-    <published>2016-05-29T00:00:00.000Z</published>
-    <updated>2016-08-21T08:38:49.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="离散数学"><a href="#离散数学" class="headerlink" title="离散数学"></a>离散数学</h2><ul>
-<li><strong>上课时间：每周三3-4节及每周五1-2节（到第16周截至）</strong></li>
-<li><strong>地点: B-314</strong></li>
-</ul>
-<h2 id="微机原理实验"><a href="#微机原理实验" class="headerlink" title="微机原理实验"></a>微机原理实验</h2><ul>
-<li><strong>上课时间：每周二下午（第三节）和周四上午（第一节）</strong></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;离散数学&quot;&gt;&lt;a href=&quot;#离散数学&quot; class=&quot;headerlink&quot; title=&quot;离散数学&quot;&gt;&lt;/a&gt;离散数学&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;上课时间：每周三3-4节及每周五1-2节（到第16周截至）&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>第14周作业</title>
     <link href="http://1418019.top/2016/05/29/%E7%AC%AC14%E5%91%A8%E4%BD%9C%E4%B8%9A/"/>
     <id>http://1418019.top/2016/05/29/第14周作业/</id>
@@ -247,6 +254,33 @@
       &lt;h2 id=&quot;信号与系统&quot;&gt;&lt;a href=&quot;#信号与系统&quot; class=&quot;headerlink&quot; title=&quot;信号与系统&quot;&gt;&lt;/a&gt;信号与系统&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;仅收第三本,做到取样定理&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;上交时间:周一(05.30)&lt;/strong
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>近期实验及补修上课地点安排</title>
+    <link href="http://1418019.top/2016/05/29/%E8%BF%91%E6%9C%9F%E5%AE%9E%E9%AA%8C%E5%8F%8A%E8%A1%A5%E4%BF%AE%E4%B8%8A%E8%AF%BE%E5%9C%B0%E7%82%B9%E5%AE%89%E6%8E%92/"/>
+    <id>http://1418019.top/2016/05/29/近期实验及补修上课地点安排/</id>
+    <published>2016-05-29T00:00:00.000Z</published>
+    <updated>2016-08-21T08:38:49.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="离散数学"><a href="#离散数学" class="headerlink" title="离散数学"></a>离散数学</h2><ul>
+<li><strong>上课时间：每周三3-4节及每周五1-2节（到第16周截至）</strong></li>
+<li><strong>地点: B-314</strong></li>
+</ul>
+<h2 id="微机原理实验"><a href="#微机原理实验" class="headerlink" title="微机原理实验"></a>微机原理实验</h2><ul>
+<li><strong>上课时间：每周二下午（第三节）和周四上午（第一节）</strong></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;离散数学&quot;&gt;&lt;a href=&quot;#离散数学&quot; class=&quot;headerlink&quot; title=&quot;离散数学&quot;&gt;&lt;/a&gt;离散数学&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;上课时间：每周三3-4节及每周五1-2节（到第16周截至）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;
     
     </summary>
     
