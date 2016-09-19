@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://1418019.top/"/>
-  <updated>2016-09-19T11:04:22.000Z</updated>
+  <updated>2016-09-19T11:21:21.000Z</updated>
   <id>http://1418019.top/</id>
   
   <author>
@@ -14,6 +14,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>3上第四周作业</title>
+    <link href="http://1418019.top/2016/09/19/G3%E7%AC%AC%E5%9B%9B%E5%91%A8%E4%BD%9C%E4%B8%9A/"/>
+    <id>http://1418019.top/2016/09/19/G3第四周作业/</id>
+    <published>2016-09-19T11:20:13.000Z</published>
+    <updated>2016-09-19T11:21:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="编译原理"><a href="#编译原理" class="headerlink" title="编译原理"></a>编译原理</h1><p>作业：</p>
+<ul>
+<li>2.1</li>
+<li>2.4、2.5</li>
+<li>2.6、2.8(a)、2.9(2)</li>
+</ul>
+<p><strong>ps.第二章的都可以做了</strong></p>
+<font color="red"><br><strong>上交时间：2016.09.26</strong><br></font>
+
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;编译原理&quot;&gt;&lt;a href=&quot;#编译原理&quot; class=&quot;headerlink&quot; title=&quot;编译原理&quot;&gt;&lt;/a&gt;编译原理&lt;/h1&gt;&lt;p&gt;作业：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2.1&lt;/li&gt;
+&lt;li&gt;2.4、2.5&lt;/li&gt;
+&lt;li&gt;2.6、2.8(a)、2.9(
+    
+    </summary>
+    
+    
+      <category term="编译原理" scheme="http://1418019.top/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>3上第三周作业</title>
@@ -69,7 +102,7 @@
 <font color="red"><br><strong>截止日期：第四周(2016.09.19)上交作业</strong><br></font>
 
 <h1 id="信息安全法律法规"><a href="#信息安全法律法规" class="headerlink" title="信息安全法律法规"></a>信息安全法律法规</h1><p>作业: 纯正计算机犯罪的案例查询与分析</p>
-<font color="red"><br><strong>截止日期：下周三(2016.09.14)前发到教师邮箱<a href="&#x6d;&#97;&#105;&#x6c;&#116;&#111;&#58;&#x78;&#116;&#x66;&#117;&#64;&#109;&#97;&#105;&#x6c;&#x2e;&#120;&#x69;&#100;&#x69;&#97;&#x6e;&#x2e;&#101;&#x64;&#x75;&#x2e;&#x63;&#110;">&#x78;&#116;&#x66;&#117;&#64;&#109;&#97;&#105;&#x6c;&#x2e;&#120;&#x69;&#100;&#x69;&#97;&#x6e;&#x2e;&#101;&#x64;&#x75;&#x2e;&#x63;&#110;</a></strong><br></font>
+<font color="red"><br><strong>截止日期：下周三(2016.09.14)前发到教师邮箱<a href="&#109;&#x61;&#x69;&#x6c;&#116;&#111;&#x3a;&#x78;&#116;&#102;&#x75;&#64;&#x6d;&#x61;&#x69;&#108;&#x2e;&#120;&#x69;&#100;&#x69;&#97;&#x6e;&#x2e;&#x65;&#100;&#117;&#46;&#99;&#x6e;">&#x78;&#116;&#102;&#x75;&#64;&#x6d;&#x61;&#x69;&#108;&#x2e;&#120;&#x69;&#100;&#x69;&#97;&#x6e;&#x2e;&#x65;&#100;&#117;&#46;&#99;&#x6e;</a></strong><br></font>
 
 ]]></content>
     
@@ -101,7 +134,7 @@
 <li>每个研究web安全方向的、均需要做、记录下过程及截图<br><font color="red"><br><strong>Deadline: 两周之内(2016.09.12)</strong><br></font><h1 id="软件逆向工程"><a href="#软件逆向工程" class="headerlink" title="软件逆向工程"></a>软件逆向工程</h1><strong>阅读论文并撰写阅读报告</strong></li>
 <li>Müller H A, Jahnke J H, Smith D B, et al. Reverse engineering: A roadmap[C] Proceedings of the Conference on the Future of Software Engineering. ACM, 2000: 47-60.</li>
 <li>Canfora G, Di Penta M, Cerulo L. Achievements and challenges in software reverse engineering[J]. Communications of the ACM, 2011, 54(4): 142-151.</li>
-<li>2选1(已上传群文件压缩包中)，写1篇1000字阅读报告，提交到<a href="&#109;&#97;&#105;&#x6c;&#116;&#x6f;&#58;&#115;&#x75;&#x6e;&#x63;&#111;&#110;&#x67;&#x40;&#x78;&#105;&#100;&#x69;&#97;&#110;&#46;&#101;&#x64;&#x75;&#x2e;&#99;&#110;">&#115;&#x75;&#x6e;&#x63;&#111;&#110;&#x67;&#x40;&#x78;&#105;&#100;&#x69;&#97;&#110;&#46;&#101;&#x64;&#x75;&#x2e;&#99;&#110;</a>，文档题目“[学号]姓名-paper1/2”<font color="red"><br><strong>Deadline: 2016/09/30, 23:59:59</strong><br></font>
+<li>2选1(已上传群文件压缩包中)，写1篇1000字阅读报告，提交到<a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#111;&#x3a;&#x73;&#117;&#x6e;&#99;&#111;&#x6e;&#103;&#x40;&#120;&#105;&#100;&#105;&#97;&#110;&#x2e;&#101;&#100;&#x75;&#46;&#x63;&#x6e;">&#x73;&#117;&#x6e;&#99;&#111;&#x6e;&#103;&#x40;&#120;&#105;&#100;&#105;&#97;&#110;&#x2e;&#101;&#100;&#x75;&#46;&#x63;&#x6e;</a>，文档题目“[学号]姓名-paper1/2”<font color="red"><br><strong>Deadline: 2016/09/30, 23:59:59</strong><br></font>
 </li>
 </ul>
 ]]></content>
