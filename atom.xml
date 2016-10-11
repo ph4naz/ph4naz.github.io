@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://1418019.top/"/>
-  <updated>2016-10-10T10:09:13.000Z</updated>
+  <updated>2016-10-11T04:38:00.000Z</updated>
   <id>http://1418019.top/</id>
   
   <author>
@@ -14,6 +14,54 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>密码学课程整理（长期更新）</title>
+    <link href="http://1418019.top/2016/10/11/%E5%AF%86%E7%A0%81%E5%AD%A6%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86%EF%BC%88%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%EF%BC%89/"/>
+    <id>http://1418019.top/2016/10/11/密码学课程整理（长期更新）/</id>
+    <published>2016-10-11T04:37:31.000Z</published>
+    <updated>2016-10-11T04:38:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="不要忘记coursera课程上的deadline"><a href="#不要忘记coursera课程上的deadline" class="headerlink" title="不要忘记coursera课程上的deadline"></a>不要忘记coursera课程上的deadline</h1><p>ps.完成后的截图暂时不用发给老师，到时候老师会要求统一发的</p>
+<h2 id="一-维吉尼亚密码"><a href="#一-维吉尼亚密码" class="headerlink" title="一. 维吉尼亚密码"></a>一. 维吉尼亚密码</h2><ul>
+<li>Programming Assignment 1 （见群文件）</li>
+<li>参考书籍: Introduction to Modern Cryptography (2nd edition) (Page 14)</li>
+<li>发布日期：2016.08.17 (无时间限制，做出后发给教师)</li>
+</ul>
+<h2 id="二-DES密码"><a href="#二-DES密码" class="headerlink" title="二. DES密码"></a>二. DES密码</h2><ul>
+<li>3DES Program Problem (见群文件)</li>
+<li>发布日期: 2016.09.23</li>
+</ul>
+<h2 id="三-Hash函数"><a href="#三-Hash函数" class="headerlink" title="三. Hash函数"></a>三. Hash函数</h2><ul>
+<li>mtc3-kitrub-07-sha1crack-en (见群文件) </li>
+<li>发布日期: 2016.09.27</li>
+</ul>
+<h2 id="练习网站"><a href="#练习网站" class="headerlink" title="练习网站"></a>练习网站</h2><ul>
+<li><a href="http://www.cryptopals.com/" target="_blank" rel="external">cryptopals</a> </li>
+<li><a href="https://www.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/cryptochallenge-introduction" target="_blank" rel="external">KhanAcademy</a></li>
+<li><a href="https://projecteuler.net/about" target="_blank" rel="external">projecteuler</a></li>
+<li><a href="https://www.mysterytwisterc3.org/en/" target="_blank" rel="external">mysterytwisterc</a></li>
+</ul>
+<h2 id="在线工具"><a href="#在线工具" class="headerlink" title="在线工具"></a>在线工具</h2><ul>
+<li><a href="https://www.cryptool.org/en/" target="_blank" rel="external">cryptool</a></li>
+<li><a href="https://www.tools4noobs.com/online_tools/encrypt/" target="_blank" rel="external">online encrypt</a></li>
+<li><a href="http://www.quipqiup.com/" target="_blank" rel="external">substitution ciphers</a><blockquote>
+<p>ps:如果有缺少的部分，联系我或者直接补上都可以，thx</p>
+</blockquote>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;不要忘记coursera课程上的deadline&quot;&gt;&lt;a href=&quot;#不要忘记coursera课程上的deadline&quot; class=&quot;headerlink&quot; title=&quot;不要忘记coursera课程上的deadline&quot;&gt;&lt;/a&gt;不要忘记coursera课程
+    
+    </summary>
+    
+    
+      <category term="密码学" scheme="http://1418019.top/tags/%E5%AF%86%E7%A0%81%E5%AD%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>3第六周作业</title>
@@ -78,51 +126,11 @@
     </summary>
     
     
-      <category term="软件逆向工程" scheme="http://1418019.top/tags/%E8%BD%AF%E4%BB%B6%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
-    
       <category term="编译原理" scheme="http://1418019.top/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/"/>
     
       <category term="法律法规" scheme="http://1418019.top/tags/%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84/"/>
     
-  </entry>
-  
-  <entry>
-    <title>密码学课程整理（长期更新）</title>
-    <link href="http://1418019.top/2016/09/22/%E5%AF%86%E7%A0%81%E5%AD%A6%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86%EF%BC%88%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%EF%BC%89/"/>
-    <id>http://1418019.top/2016/09/22/密码学课程整理（长期更新）/</id>
-    <published>2016-09-22T04:05:31.000Z</published>
-    <updated>2016-09-22T04:56:01.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="不要忘记coursera课程上的deadline"><a href="#不要忘记coursera课程上的deadline" class="headerlink" title="不要忘记coursera课程上的deadline"></a>不要忘记coursera课程上的deadline</h1><p>ps.完成后的截图暂时不用发给老师，到时候老师会要求统一发的</p>
-<h2 id="第一周option-维吉尼亚密码"><a href="#第一周option-维吉尼亚密码" class="headerlink" title="第一周option 维吉尼亚密码"></a>第一周option 维吉尼亚密码</h2><ul>
-<li>Programming Assignment 1 （见群文件）</li>
-<li>参考书籍: Introduction to Modern Cryptography (2nd edition) (Page 14)</li>
-<li>发布日期：2016.08.17 (无时间限制，做出后发给教师)</li>
-</ul>
-<h2 id="练习网站"><a href="#练习网站" class="headerlink" title="练习网站"></a>练习网站</h2><ul>
-<li><a href="http://www.cryptopals.com/" target="_blank" rel="external">cryptopals</a> </li>
-<li><a href="https://www.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/cryptochallenge-introduction" target="_blank" rel="external">KhanAcademy</a></li>
-<li><a href="https://projecteuler.net/about" target="_blank" rel="external">projecteuler</a></li>
-<li><a href="https://www.mysterytwisterc3.org/en/" target="_blank" rel="external">mysterytwisterc</a></li>
-</ul>
-<h2 id="在线工具"><a href="#在线工具" class="headerlink" title="在线工具"></a>在线工具</h2><ul>
-<li><a href="https://www.cryptool.org/en/" target="_blank" rel="external">cryptool</a></li>
-<li><a href="https://www.tools4noobs.com/online_tools/encrypt/" target="_blank" rel="external">online encrypt</a></li>
-<li><a href="http://www.quipqiup.com/" target="_blank" rel="external">substitution ciphers</a><blockquote>
-<p>ps:如果有缺少的部分，联系我或者直接补上都可以，thx</p>
-</blockquote>
-</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;不要忘记coursera课程上的deadline&quot;&gt;&lt;a href=&quot;#不要忘记coursera课程上的deadline&quot; class=&quot;headerlink&quot; title=&quot;不要忘记coursera课程上的deadline&quot;&gt;&lt;/a&gt;不要忘记coursera课程
-    
-    </summary>
-    
-    
-      <category term="密码学" scheme="http://1418019.top/tags/%E5%AF%86%E7%A0%81%E5%AD%A6/"/>
+      <category term="软件逆向工程" scheme="http://1418019.top/tags/%E8%BD%AF%E4%BB%B6%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
     
   </entry>
   
@@ -163,9 +171,9 @@
     </summary>
     
     
-      <category term="软件逆向工程" scheme="http://1418019.top/tags/%E8%BD%AF%E4%BB%B6%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
-    
       <category term="编译原理" scheme="http://1418019.top/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/"/>
+    
+      <category term="软件逆向工程" scheme="http://1418019.top/tags/%E8%BD%AF%E4%BB%B6%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
     
   </entry>
   
@@ -180,7 +188,7 @@
 <font color="red"><br><strong>截止日期：第四周(2016.09.19)上交作业</strong><br></font>
 
 <h1 id="法律法规"><a href="#法律法规" class="headerlink" title="法律法规"></a>法律法规</h1><p>作业: 纯正计算机犯罪的案例查询与分析</p>
-<font color="red"><br><strong>截止日期：下周三(2016.09.14)前发到教师邮箱<a href="&#109;&#x61;&#105;&#108;&#x74;&#111;&#x3a;&#x78;&#116;&#x66;&#x75;&#64;&#x6d;&#97;&#105;&#x6c;&#x2e;&#x78;&#105;&#x64;&#x69;&#97;&#x6e;&#x2e;&#101;&#100;&#x75;&#x2e;&#x63;&#x6e;">&#x78;&#116;&#x66;&#x75;&#64;&#x6d;&#97;&#105;&#x6c;&#x2e;&#x78;&#105;&#x64;&#x69;&#97;&#x6e;&#x2e;&#101;&#100;&#x75;&#x2e;&#x63;&#x6e;</a></strong><br></font>
+<font color="red"><br><strong>截止日期：下周三(2016.09.14)前发到教师邮箱<a href="&#109;&#97;&#105;&#x6c;&#x74;&#x6f;&#58;&#x78;&#x74;&#x66;&#117;&#x40;&#x6d;&#97;&#x69;&#108;&#x2e;&#x78;&#105;&#x64;&#x69;&#x61;&#110;&#x2e;&#x65;&#x64;&#117;&#46;&#x63;&#x6e;">&#x78;&#x74;&#x66;&#117;&#x40;&#x6d;&#97;&#x69;&#108;&#x2e;&#x78;&#105;&#x64;&#x69;&#x61;&#110;&#x2e;&#x65;&#x64;&#117;&#46;&#x63;&#x6e;</a></strong><br></font>
 
 ]]></content>
     
@@ -212,7 +220,7 @@
 <li>每个研究web安全方向的、均需要做、记录下过程及截图<br><font color="red"><br><strong>Deadline: 两周之内(2016.09.12)</strong><br></font><h1 id="软件逆向工程"><a href="#软件逆向工程" class="headerlink" title="软件逆向工程"></a>软件逆向工程</h1><strong>阅读论文并撰写阅读报告</strong></li>
 <li>Müller H A, Jahnke J H, Smith D B, et al. Reverse engineering: A roadmap[C] Proceedings of the Conference on the Future of Software Engineering. ACM, 2000: 47-60.</li>
 <li>Canfora G, Di Penta M, Cerulo L. Achievements and challenges in software reverse engineering[J]. Communications of the ACM, 2011, 54(4): 142-151.</li>
-<li>2选1(已上传群文件压缩包中)，写1篇1000字阅读报告，提交到<a href="&#x6d;&#x61;&#105;&#x6c;&#x74;&#x6f;&#x3a;&#x73;&#x75;&#x6e;&#99;&#x6f;&#110;&#103;&#x40;&#120;&#105;&#x64;&#x69;&#97;&#110;&#x2e;&#x65;&#100;&#x75;&#46;&#x63;&#110;">&#x73;&#x75;&#x6e;&#99;&#x6f;&#110;&#103;&#x40;&#120;&#105;&#x64;&#x69;&#97;&#110;&#x2e;&#x65;&#100;&#x75;&#46;&#x63;&#110;</a>，文档题目“[学号]姓名-paper1/2”<font color="red"><br><strong>Deadline: 2016/09/30, 23:59:59</strong><br></font>
+<li>2选1(已上传群文件压缩包中)，写1篇1000字阅读报告，提交到<a href="&#109;&#97;&#x69;&#x6c;&#x74;&#x6f;&#58;&#115;&#x75;&#110;&#x63;&#111;&#x6e;&#103;&#64;&#120;&#x69;&#x64;&#x69;&#97;&#110;&#x2e;&#x65;&#x64;&#117;&#46;&#x63;&#110;">&#115;&#x75;&#110;&#x63;&#111;&#x6e;&#103;&#64;&#120;&#x69;&#x64;&#x69;&#97;&#110;&#x2e;&#x65;&#x64;&#117;&#46;&#x63;&#110;</a>，文档题目“[学号]姓名-paper1/2”<font color="red"><br><strong>Deadline: 2016/09/30, 23:59:59</strong><br></font>
 </li>
 </ul>
 ]]></content>
