@@ -4,18 +4,8 @@
   
     
     <entry>
-      <title><![CDATA[G3第八周作业.md]]></title>
-      <url>http://1418019.top/2016/10/19/G3%E7%AC%AC%E5%85%AB%E5%91%A8%E4%BD%9C%E4%B8%9A/</url>
-      <content type="html"><![CDATA[<h1 id="软件逆向工程"><a href="#软件逆向工程" class="headerlink" title="软件逆向工程"></a>软件逆向工程</h1><p>上机作业内容见群文件</p>
-<p>上交方式：发送到教师邮箱</p>
-<p>邮件名称：“逆向上机作业1-学号姓名”</p>
-<font color="red"><br><strong>deadline:2016.11.15 23:59:59</strong><br></font>
-]]></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[密码学课程整理（长期更新）]]></title>
-      <url>http://1418019.top/2016/10/16/%E5%AF%86%E7%A0%81%E5%AD%A6%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86%EF%BC%88%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%EF%BC%89/</url>
+      <url>http://1418019.top/2016/10/28/%E5%AF%86%E7%A0%81%E5%AD%A6%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86%EF%BC%88%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%EF%BC%89/</url>
       <content type="html"><![CDATA[<h1 id="不要忘记coursera课程上的deadline"><a href="#不要忘记coursera课程上的deadline" class="headerlink" title="不要忘记coursera课程上的deadline"></a>不要忘记coursera课程上的deadline</h1><p>ps.完成后的截图暂时不用发给老师，到时候老师会要求统一发的</p>
 <h2 id="一-维吉尼亚密码"><a href="#一-维吉尼亚密码" class="headerlink" title="一. 维吉尼亚密码"></a>一. 维吉尼亚密码</h2><ul>
 <li>Programming Assignment 1 （见群文件）</li>
@@ -34,8 +24,10 @@
 <li>阿川.zip(见群文件)或<a href="https://github.com/Gao-Chuan/CTF/tree/master/l-ctf-2016/crypt_450" target="_blank" rel="external">l-ctf-2016/crypt-450</a></li>
 <li>发布日期: 2016.10.11</li>
 </ul>
-<h2 id="课堂Quiz"><a href="#课堂Quiz" class="headerlink" title="课堂Quiz"></a>课堂Quiz</h2><ul>
-<li>Quiz0912(是Quiz0920中的两个题)、<a href="/Quiz/quiz0920.pdf">Quiz0920</a>、<a href="/Quiz/Quiz0926.pdf">Quiz0926</a>、<a href="/Quiz/Quiz1012.jpg">Quiz1012</a> (见群文件或根目录Quiz文件夹)</li>
+<h2 id="五、CBC-MAC"><a href="#五、CBC-MAC" class="headerlink" title="五、CBC-MAC"></a>五、CBC-MAC</h2><ul>
+<li><a href="/Quiz/mac.tar.gz">project mac.tar.gz</a>(见群文件)(makefile需要修改一下)</li>
+<li>发布日期：2016.10.20<h2 id="课堂Quiz"><a href="#课堂Quiz" class="headerlink" title="课堂Quiz"></a>课堂Quiz</h2></li>
+<li>Quiz0912(是Quiz0920中的两个题)、<a href="/Quiz/quiz0920.pdf">Quiz0920</a>、<a href="/Quiz/Quiz0926.pdf">Quiz0926</a>、<a href="/Quiz/Quiz1012.jpg">Quiz1012</a>、<a href="/Quiz/Quiz1019.pdf">Quiz1019</a> (见群文件或根目录Quiz文件夹)</li>
 </ul>
 <h2 id="练习网站"><a href="#练习网站" class="headerlink" title="练习网站"></a>练习网站</h2><ul>
 <li><a href="http://www.cryptopals.com/" target="_blank" rel="external">cryptopals</a> </li>
@@ -51,6 +43,16 @@
 </blockquote>
 </li>
 </ul>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[3第八周作业.md]]></title>
+      <url>http://1418019.top/2016/10/19/G3%E7%AC%AC%E5%85%AB%E5%91%A8%E4%BD%9C%E4%B8%9A/</url>
+      <content type="html"><![CDATA[<h1 id="软件逆向工程"><a href="#软件逆向工程" class="headerlink" title="软件逆向工程"></a>软件逆向工程</h1><p>上机作业内容见群文件</p>
+<p>上交方式：发送到教师邮箱</p>
+<p>邮件名称：“逆向上机作业1-学号姓名”</p>
+<font color="red"><br><strong>deadline:2016.11.15 23:59:59</strong><br></font>
 ]]></content>
     </entry>
     
@@ -133,7 +135,7 @@
 <font color="red"><br><strong>截止日期：第四周(2016.09.19)上交作业</strong><br></font>
 
 <h1 id="法律法规"><a href="#法律法规" class="headerlink" title="法律法规"></a>法律法规</h1><p>作业: 纯正计算机犯罪的案例查询与分析</p>
-<font color="red"><br><strong>截止日期：下周三(2016.09.14)前发到教师邮箱<a href="&#109;&#97;&#105;&#108;&#x74;&#111;&#58;&#x78;&#116;&#102;&#x75;&#x40;&#x6d;&#97;&#x69;&#x6c;&#46;&#120;&#x69;&#100;&#x69;&#97;&#110;&#x2e;&#101;&#100;&#117;&#x2e;&#x63;&#x6e;">&#x78;&#116;&#102;&#x75;&#x40;&#x6d;&#97;&#x69;&#x6c;&#46;&#120;&#x69;&#100;&#x69;&#97;&#110;&#x2e;&#101;&#100;&#117;&#x2e;&#x63;&#x6e;</a></strong><br></font>
+<font color="red"><br><strong>截止日期：下周三(2016.09.14)前发到教师邮箱<a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#111;&#x3a;&#120;&#x74;&#x66;&#117;&#64;&#x6d;&#97;&#x69;&#x6c;&#46;&#x78;&#x69;&#100;&#105;&#x61;&#110;&#46;&#101;&#x64;&#117;&#x2e;&#99;&#x6e;">&#120;&#x74;&#x66;&#117;&#64;&#x6d;&#97;&#x69;&#x6c;&#46;&#x78;&#x69;&#100;&#105;&#x61;&#110;&#46;&#101;&#x64;&#117;&#x2e;&#99;&#x6e;</a></strong><br></font>
 
 ]]></content>
     </entry>
@@ -148,7 +150,7 @@
 <li>每个研究web安全方向的、均需要做、记录下过程及截图<br><font color="red"><br><strong>Deadline: 两周之内(2016.09.12)</strong><br></font><h1 id="软件逆向工程"><a href="#软件逆向工程" class="headerlink" title="软件逆向工程"></a>软件逆向工程</h1><strong>阅读论文并撰写阅读报告</strong></li>
 <li>Müller H A, Jahnke J H, Smith D B, et al. Reverse engineering: A roadmap[C] Proceedings of the Conference on the Future of Software Engineering. ACM, 2000: 47-60.</li>
 <li>Canfora G, Di Penta M, Cerulo L. Achievements and challenges in software reverse engineering[J]. Communications of the ACM, 2011, 54(4): 142-151.</li>
-<li>2选1(已上传群文件压缩包中)，写1篇1000字阅读报告，提交到<a href="&#109;&#97;&#105;&#x6c;&#x74;&#111;&#x3a;&#115;&#117;&#x6e;&#99;&#111;&#x6e;&#x67;&#x40;&#120;&#105;&#100;&#105;&#x61;&#110;&#x2e;&#x65;&#100;&#117;&#46;&#x63;&#x6e;">&#115;&#117;&#x6e;&#99;&#111;&#x6e;&#x67;&#x40;&#120;&#105;&#100;&#105;&#x61;&#110;&#x2e;&#x65;&#100;&#117;&#46;&#x63;&#x6e;</a>，文档题目“[学号]姓名-paper1/2”<font color="red"><br><strong>Deadline: 2016/09/30, 23:59:59</strong><br></font>
+<li>2选1(已上传群文件压缩包中)，写1篇1000字阅读报告，提交到<a href="&#x6d;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#x73;&#117;&#x6e;&#x63;&#x6f;&#x6e;&#103;&#64;&#120;&#x69;&#100;&#x69;&#97;&#x6e;&#46;&#101;&#100;&#117;&#46;&#x63;&#110;">&#x73;&#117;&#x6e;&#x63;&#x6f;&#x6e;&#103;&#64;&#120;&#x69;&#100;&#x69;&#97;&#x6e;&#46;&#101;&#100;&#117;&#46;&#x63;&#110;</a>，文档题目“[学号]姓名-paper1/2”<font color="red"><br><strong>Deadline: 2016/09/30, 23:59:59</strong><br></font>
 </li>
 </ul>
 ]]></content>
