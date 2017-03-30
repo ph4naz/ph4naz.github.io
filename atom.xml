@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://1418019.top/"/>
-  <updated>2017-03-23T00:15:56.000Z</updated>
+  <updated>2017-03-29T07:38:23.000Z</updated>
   <id>http://1418019.top/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第五周作业</title>
+    <link href="http://1418019.top/2017/03/29/G32%E7%AC%AC%E4%BA%94%E5%91%A8%E4%BD%9C%E4%B8%9A/"/>
+    <id>http://1418019.top/2017/03/29/G32第五周作业/</id>
+    <published>2017-03-29T07:35:14.000Z</published>
+    <updated>2017-03-29T07:38:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="信息论基础"><a href="#信息论基础" class="headerlink" title="信息论基础"></a>信息论基础</h1><p>题目：2.28</p>
+<font color="red"><br><strong>上交时间：下下周上交(2017.4.12)</strong><br></font>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;信息论基础&quot;&gt;&lt;a href=&quot;#信息论基础&quot; class=&quot;headerlink&quot; title=&quot;信息论基础&quot;&gt;&lt;/a&gt;信息论基础&lt;/h1&gt;&lt;p&gt;题目：2.28&lt;/p&gt;
+&lt;font color=&quot;red&quot;&gt;&lt;br&gt;&lt;strong&gt;上交时间：下下周上交(2017.
+    
+    </summary>
+    
+    
+      <category term="信息论基础" scheme="http://1418019.top/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
   
   <entry>
     <title>第四周作业</title>
@@ -545,7 +568,7 @@
 <font color="red"><br><strong>截止日期：第四周(2016.09.19)上交作业</strong><br></font>
 
 <h1 id="法律法规"><a href="#法律法规" class="headerlink" title="法律法规"></a>法律法规</h1><p>作业: 纯正计算机犯罪的案例查询与分析</p>
-<font color="red"><br><strong>截止日期：下周三(2016.09.14)前发到教师邮箱<a href="&#x6d;&#97;&#x69;&#108;&#116;&#x6f;&#58;&#x78;&#116;&#x66;&#x75;&#x40;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#x78;&#105;&#100;&#105;&#x61;&#x6e;&#x2e;&#101;&#100;&#x75;&#x2e;&#x63;&#110;">&#x78;&#116;&#x66;&#x75;&#x40;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#x78;&#105;&#100;&#105;&#x61;&#x6e;&#x2e;&#101;&#100;&#x75;&#x2e;&#x63;&#110;</a></strong><br></font>
+<font color="red"><br><strong>截止日期：下周三(2016.09.14)前发到教师邮箱<a href="&#x6d;&#x61;&#x69;&#108;&#x74;&#x6f;&#58;&#x78;&#116;&#x66;&#x75;&#64;&#109;&#97;&#x69;&#108;&#x2e;&#120;&#x69;&#100;&#x69;&#x61;&#x6e;&#x2e;&#101;&#x64;&#117;&#x2e;&#x63;&#110;">&#x78;&#116;&#x66;&#x75;&#64;&#109;&#97;&#x69;&#108;&#x2e;&#120;&#x69;&#100;&#x69;&#x61;&#x6e;&#x2e;&#101;&#x64;&#117;&#x2e;&#x63;&#110;</a></strong><br></font>
 
 ]]></content>
     
@@ -577,7 +600,7 @@
 <li>每个研究web安全方向的、均需要做、记录下过程及截图<br><font color="red"><br><strong>Deadline: 两周之内(2016.09.12)</strong><br></font><h1 id="软件逆向工程"><a href="#软件逆向工程" class="headerlink" title="软件逆向工程"></a>软件逆向工程</h1><strong>阅读论文并撰写阅读报告</strong></li>
 <li>Müller H A, Jahnke J H, Smith D B, et al. Reverse engineering: A roadmap[C] Proceedings of the Conference on the Future of Software Engineering. ACM, 2000: 47-60.</li>
 <li>Canfora G, Di Penta M, Cerulo L. Achievements and challenges in software reverse engineering[J]. Communications of the ACM, 2011, 54(4): 142-151.</li>
-<li>2选1(已上传群文件压缩包中)，写1篇1000字阅读报告，提交到<a href="&#109;&#97;&#x69;&#x6c;&#116;&#111;&#x3a;&#115;&#x75;&#110;&#99;&#111;&#110;&#x67;&#64;&#120;&#x69;&#100;&#105;&#97;&#110;&#46;&#101;&#x64;&#x75;&#x2e;&#x63;&#x6e;">&#115;&#x75;&#110;&#99;&#111;&#110;&#x67;&#64;&#120;&#x69;&#100;&#105;&#97;&#110;&#46;&#101;&#x64;&#x75;&#x2e;&#x63;&#x6e;</a>，文档题目“[学号]姓名-paper1/2”<font color="red"><br><strong>Deadline: 2016/09/30, 23:59:59</strong><br></font>
+<li>2选1(已上传群文件压缩包中)，写1篇1000字阅读报告，提交到<a href="&#109;&#97;&#105;&#x6c;&#x74;&#111;&#58;&#115;&#x75;&#x6e;&#99;&#111;&#110;&#x67;&#x40;&#x78;&#x69;&#100;&#105;&#97;&#110;&#46;&#101;&#x64;&#x75;&#46;&#99;&#110;">&#115;&#x75;&#x6e;&#99;&#111;&#110;&#x67;&#x40;&#x78;&#x69;&#100;&#105;&#97;&#110;&#46;&#101;&#x64;&#x75;&#46;&#99;&#110;</a>，文档题目“[学号]姓名-paper1/2”<font color="red"><br><strong>Deadline: 2016/09/30, 23:59:59</strong><br></font>
 </li>
 </ul>
 ]]></content>
@@ -649,63 +672,6 @@
       &lt;h2 id=&quot;信号与系统&quot;&gt;&lt;a href=&quot;#信号与系统&quot; class=&quot;headerlink&quot; title=&quot;信号与系统&quot;&gt;&lt;/a&gt;信号与系统&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;第一本,做到6-1节 z变换&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;上交时间:周一(2016.06.20)&lt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>近期考试及上交大作业预警</title>
-    <link href="http://1418019.top/2016/06/13/%E8%BF%91%E6%9C%9F%E8%80%83%E8%AF%95%E5%8F%8A%E4%B8%8A%E4%BA%A4%E5%A4%A7%E4%BD%9C%E4%B8%9A%E9%A2%84%E8%AD%A6/"/>
-    <id>http://1418019.top/2016/06/13/近期考试及上交大作业预警/</id>
-    <published>2016-06-13T00:00:00.000Z</published>
-    <updated>2016-08-21T08:38:49.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="CET4-amp-6"><a href="#CET4-amp-6" class="headerlink" title="CET4&amp;6"></a>CET4&amp;6</h2><ul>
-<li><strong>CET4：9：00～11：20</strong></li>
-<li><strong>CET6：15：00～17：25</strong></li>
-</ul>
-<h2 id="微机原理实验"><a href="#微机原理实验" class="headerlink" title="微机原理实验"></a>微机原理实验</h2><ul>
-<li><strong>时间：8次，16小时,6.2开始，每周二下午7-8节课、每周四早上1-2节课。</strong></li>
-<li><strong>地点：EⅢ102</strong></li>
-<li><strong>内容：</strong></li>
-<li>1.Keil系统安装与使用</li>
-<li>2.建立新工程，相关部件原理（含mcu简介）</li>
-<li>3.Asm程序实验。循环实现斐波纳契数列前30项。现斐波纳契数列:[图片]1&lt;=n&lt;N=30</li>
-<li>4.定时器的使用，LED闪烁（分别系统时基定时器，基本定时器，通用定时器，高级定时器）</li>
-<li>5.Usart与上位机通过usart通信（任选一个usart），接收并转发上位机信息</li>
-<li>6.LCD1602显示：abcdefg…op，123…456</li>
-<li>7&amp;8.小车定时移动，前行，后退，转弯</li>
-<li><strong>需要准备：1.      Keil u4+注册机（u5需要对应器件安装库）2.      stm32f103固件库     3.      串口助手</strong><br><strong>ps:需要写实验报告，最后上交(具体要求还没有说明)</strong></li>
-</ul>
-<h2 id="计算机网络【大作业】"><a href="#计算机网络【大作业】" class="headerlink" title="计算机网络【大作业】"></a>计算机网络【大作业】</h2><ul>
-<li><p>数据链路层的流量+差错控制协议</p>
-</li>
-<li><p>项目目标：</p>
-<pre><code>*   实现2个数据链路层的流控+差控协议：
-
-        *   1）停等ARQ协议；
-*   2）后退N帧ARQ协议；
-</code></pre></li>
-<li>具体要求：</li>
-<li>1）要求能模拟2个终端进行数据通信，在通信过程中执行流控+差控协议的所有过程；</li>
-<li>2）要求能模拟发送端和接收端的窗口滑动逻辑，即在窗口中的数据才能发送或者接收；</li>
-<li>3）要求发送端、接收端的窗口大小可以自行设定；</li>
-<li>4）要求数据帧编号为0~15；</li>
-<li>5）要求窗口滑动能可视化，即可以直观看到数据发送接收时窗口的滑动过程；</li>
-<li>6）模拟通信可以用多种手段实现，例如进程间通信、socket、共享内存等；</li>
-<li>7）程序可以用多种语言实现，例如C++、Java、Pathon等；</li>
-<li>8）图形界面也可以用多种库，例如MFC、QT、Java图形库等；</li>
-<li>9）可以2~3人组成小组一起完成，但要求明确承担内容；</li>
-<li>10）期末交给课代表，分数作为本课程的实验成绩。</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;CET4-amp-6&quot;&gt;&lt;a href=&quot;#CET4-amp-6&quot; class=&quot;headerlink&quot; title=&quot;CET4&amp;amp;6&quot;&gt;&lt;/a&gt;CET4&amp;amp;6&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;CET4：9：00～11：20&lt;/strong&gt;
     
     </summary>
     
