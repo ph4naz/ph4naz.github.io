@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://1418019.top/"/>
-  <updated>2017-03-31T06:32:14.000Z</updated>
+  <updated>2017-04-15T10:38:12.000Z</updated>
   <id>http://1418019.top/</id>
   
   <author>
@@ -14,6 +14,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第七周作业</title>
+    <link href="http://1418019.top/2017/04/15/G32%E7%AC%AC%E4%B8%83%E5%91%A8%E4%BD%9C%E4%B8%9A/"/>
+    <id>http://1418019.top/2017/04/15/G32第七周作业/</id>
+    <published>2017-04-15T10:29:59.000Z</published>
+    <updated>2017-04-15T10:38:12.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="信息论"><a href="#信息论" class="headerlink" title="信息论"></a>信息论</h1><p>作业：3.1，3.2</p>
+<p>上交时间：未知</p>
+<h1 id="网络对抗原理"><a href="#网络对抗原理" class="headerlink" title="网络对抗原理"></a>网络对抗原理</h1><p>作业：具体内容详见群文件实验1.pdf</p>
+<p>上交时间：未知</p>
+<h1 id="软件漏洞安全"><a href="#软件漏洞安全" class="headerlink" title="软件漏洞安全"></a>软件漏洞安全</h1><p>作业: 具体内容详见群文件作业-1.doc</p>
+<font color="red"><br><strong>上交时间：下周五(2017.4.21)</strong><br><br></font>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;信息论&quot;&gt;&lt;a href=&quot;#信息论&quot; class=&quot;headerlink&quot; title=&quot;信息论&quot;&gt;&lt;/a&gt;信息论&lt;/h1&gt;&lt;p&gt;作业：3.1，3.2&lt;/p&gt;
+&lt;p&gt;上交时间：未知&lt;/p&gt;
+&lt;h1 id=&quot;网络对抗原理&quot;&gt;&lt;a href=&quot;#网络对抗原理&quot; cl
+    
+    </summary>
+    
+    
+      <category term="信息论" scheme="http://1418019.top/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA/"/>
+    
+      <category term="网络对抗原理" scheme="http://1418019.top/tags/%E7%BD%91%E7%BB%9C%E5%AF%B9%E6%8A%97%E5%8E%9F%E7%90%86/"/>
+    
+      <category term="软件漏洞安全" scheme="http://1418019.top/tags/%E8%BD%AF%E4%BB%B6%E6%BC%8F%E6%B4%9E%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>第五周作业</title>
@@ -245,11 +277,11 @@
     
       <category term="编译原理" scheme="http://1418019.top/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/"/>
     
-      <category term="计算机操作系统" scheme="http://1418019.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
-    
       <category term="逆向工程" scheme="http://1418019.top/tags/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
     
       <category term="WEB安全" scheme="http://1418019.top/tags/WEB%E5%AE%89%E5%85%A8/"/>
+    
+      <category term="计算机操作系统" scheme="http://1418019.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     
       <category term="网络安全技术与理论" scheme="http://1418019.top/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF%E4%B8%8E%E7%90%86%E8%AE%BA/"/>
     
@@ -474,9 +506,9 @@
     
       <category term="编译原理" scheme="http://1418019.top/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/"/>
     
-      <category term="计算机操作系统" scheme="http://1418019.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
-    
       <category term="法律法规" scheme="http://1418019.top/tags/%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84/"/>
+    
+      <category term="计算机操作系统" scheme="http://1418019.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     
   </entry>
   
@@ -515,11 +547,11 @@
     </summary>
     
     
+      <category term="软件逆向工程" scheme="http://1418019.top/tags/%E8%BD%AF%E4%BB%B6%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
+    
       <category term="编译原理" scheme="http://1418019.top/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/"/>
     
       <category term="法律法规" scheme="http://1418019.top/tags/%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84/"/>
-    
-      <category term="软件逆向工程" scheme="http://1418019.top/tags/%E8%BD%AF%E4%BB%B6%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
     
   </entry>
   
@@ -560,9 +592,9 @@
     </summary>
     
     
-      <category term="编译原理" scheme="http://1418019.top/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/"/>
-    
       <category term="软件逆向工程" scheme="http://1418019.top/tags/%E8%BD%AF%E4%BB%B6%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
+    
+      <category term="编译原理" scheme="http://1418019.top/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/"/>
     
   </entry>
   
@@ -577,7 +609,7 @@
 <font color="red"><br><strong>截止日期：第四周(2016.09.19)上交作业</strong><br></font>
 
 <h1 id="法律法规"><a href="#法律法规" class="headerlink" title="法律法规"></a>法律法规</h1><p>作业: 纯正计算机犯罪的案例查询与分析</p>
-<font color="red"><br><strong>截止日期：下周三(2016.09.14)前发到教师邮箱<a href="&#x6d;&#x61;&#x69;&#108;&#x74;&#x6f;&#58;&#x78;&#116;&#x66;&#x75;&#64;&#109;&#97;&#x69;&#108;&#x2e;&#120;&#x69;&#100;&#x69;&#x61;&#x6e;&#x2e;&#101;&#x64;&#117;&#x2e;&#x63;&#110;">&#x78;&#116;&#x66;&#x75;&#64;&#109;&#97;&#x69;&#108;&#x2e;&#120;&#x69;&#100;&#x69;&#x61;&#x6e;&#x2e;&#101;&#x64;&#117;&#x2e;&#x63;&#110;</a></strong><br></font>
+<font color="red"><br><strong>截止日期：下周三(2016.09.14)前发到教师邮箱<a href="&#x6d;&#x61;&#105;&#108;&#x74;&#111;&#58;&#x78;&#116;&#x66;&#x75;&#64;&#109;&#97;&#x69;&#x6c;&#46;&#x78;&#105;&#x64;&#105;&#x61;&#x6e;&#46;&#x65;&#x64;&#117;&#x2e;&#x63;&#110;">&#x78;&#116;&#x66;&#x75;&#64;&#109;&#97;&#x69;&#x6c;&#46;&#x78;&#105;&#x64;&#105;&#x61;&#x6e;&#46;&#x65;&#x64;&#117;&#x2e;&#x63;&#110;</a></strong><br></font>
 
 ]]></content>
     
@@ -609,7 +641,7 @@
 <li>每个研究web安全方向的、均需要做、记录下过程及截图<br><font color="red"><br><strong>Deadline: 两周之内(2016.09.12)</strong><br></font><h1 id="软件逆向工程"><a href="#软件逆向工程" class="headerlink" title="软件逆向工程"></a>软件逆向工程</h1><strong>阅读论文并撰写阅读报告</strong></li>
 <li>Müller H A, Jahnke J H, Smith D B, et al. Reverse engineering: A roadmap[C] Proceedings of the Conference on the Future of Software Engineering. ACM, 2000: 47-60.</li>
 <li>Canfora G, Di Penta M, Cerulo L. Achievements and challenges in software reverse engineering[J]. Communications of the ACM, 2011, 54(4): 142-151.</li>
-<li>2选1(已上传群文件压缩包中)，写1篇1000字阅读报告，提交到<a href="&#109;&#97;&#105;&#x6c;&#x74;&#111;&#58;&#115;&#x75;&#x6e;&#99;&#111;&#110;&#x67;&#x40;&#x78;&#x69;&#100;&#105;&#97;&#110;&#46;&#101;&#x64;&#x75;&#46;&#99;&#110;">&#115;&#x75;&#x6e;&#99;&#111;&#110;&#x67;&#x40;&#x78;&#x69;&#100;&#105;&#97;&#110;&#46;&#101;&#x64;&#x75;&#46;&#99;&#110;</a>，文档题目“[学号]姓名-paper1/2”<font color="red"><br><strong>Deadline: 2016/09/30, 23:59:59</strong><br></font>
+<li>2选1(已上传群文件压缩包中)，写1篇1000字阅读报告，提交到<a href="&#109;&#97;&#x69;&#108;&#x74;&#x6f;&#58;&#115;&#x75;&#110;&#x63;&#x6f;&#x6e;&#103;&#x40;&#x78;&#x69;&#x64;&#105;&#97;&#110;&#46;&#101;&#100;&#117;&#46;&#99;&#110;">&#115;&#x75;&#110;&#x63;&#x6f;&#x6e;&#103;&#x40;&#x78;&#x69;&#x64;&#105;&#97;&#110;&#46;&#101;&#100;&#117;&#46;&#99;&#110;</a>，文档题目“[学号]姓名-paper1/2”<font color="red"><br><strong>Deadline: 2016/09/30, 23:59:59</strong><br></font>
 </li>
 </ul>
 ]]></content>
@@ -656,31 +688,6 @@
 &lt;li&gt;一：6,15(3)(4),17,18,26&lt;/li&gt;
 &lt;li&gt;二：5,6,12,13,20&lt;/li&gt;
 &lt;li&gt;三
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>第17周作业(本周)</title>
-    <link href="http://1418019.top/2016/06/19/%E7%AC%AC17%E5%91%A8%E4%BD%9C%E4%B8%9A-%E6%9C%AC%E5%91%A8/"/>
-    <id>http://1418019.top/2016/06/19/第17周作业-本周/</id>
-    <published>2016-06-19T00:00:00.000Z</published>
-    <updated>2016-08-21T08:38:49.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="信号与系统"><a href="#信号与系统" class="headerlink" title="信号与系统"></a>信号与系统</h2><ul>
-<li>第一本,做到6-1节 z变换</li>
-<li><strong>上交时间:周一(2016.06.20)</strong></li>
-<li><strong>ps:第六章的内容都可以做了</strong></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;信号与系统&quot;&gt;&lt;a href=&quot;#信号与系统&quot; class=&quot;headerlink&quot; title=&quot;信号与系统&quot;&gt;&lt;/a&gt;信号与系统&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;第一本,做到6-1节 z变换&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;上交时间:周一(2016.06.20)&lt;
     
     </summary>
     
