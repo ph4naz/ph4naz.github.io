@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://1418019.top/"/>
-  <updated>2017-04-26T11:23:57.000Z</updated>
+  <updated>2017-05-04T10:55:09.000Z</updated>
   <id>http://1418019.top/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>G32第十周作业</title>
+    <link href="http://1418019.top/2017/05/04/G32%E7%AC%AC%E5%8D%81%E5%91%A8%E4%BD%9C%E4%B8%9A/"/>
+    <id>http://1418019.top/2017/05/04/G32第十周作业/</id>
+    <published>2017-05-04T10:51:58.000Z</published>
+    <updated>2017-05-04T10:55:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="信息论"><a href="#信息论" class="headerlink" title="信息论"></a>信息论</h1><p>作业： 3.12</p>
+<font color="red"><br><strong>上交时间：下周三(2017.05.10)</strong><br></font>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;信息论&quot;&gt;&lt;a href=&quot;#信息论&quot; class=&quot;headerlink&quot; title=&quot;信息论&quot;&gt;&lt;/a&gt;信息论&lt;/h1&gt;&lt;p&gt;作业： 3.12&lt;/p&gt;
+&lt;font color=&quot;red&quot;&gt;&lt;br&gt;&lt;strong&gt;上交时间：下周三(2017.05.10)&lt;/s
+    
+    </summary>
+    
+    
+      <category term="-信息论" scheme="http://1418019.top/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>第九周作业</title>
@@ -36,9 +59,9 @@
     </summary>
     
     
-      <category term="软件漏洞安全" scheme="http://1418019.top/tags/%E8%BD%AF%E4%BB%B6%E6%BC%8F%E6%B4%9E%E5%AE%89%E5%85%A8/"/>
-    
       <category term="信息论" scheme="http://1418019.top/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA/"/>
+    
+      <category term="软件漏洞安全" scheme="http://1418019.top/tags/%E8%BD%AF%E4%BB%B6%E6%BC%8F%E6%B4%9E%E5%AE%89%E5%85%A8/"/>
     
   </entry>
   
@@ -90,11 +113,11 @@
     </summary>
     
     
-      <category term="软件漏洞安全" scheme="http://1418019.top/tags/%E8%BD%AF%E4%BB%B6%E6%BC%8F%E6%B4%9E%E5%AE%89%E5%85%A8/"/>
+      <category term="信息论" scheme="http://1418019.top/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA/"/>
     
       <category term="网络对抗原理" scheme="http://1418019.top/tags/%E7%BD%91%E7%BB%9C%E5%AF%B9%E6%8A%97%E5%8E%9F%E7%90%86/"/>
     
-      <category term="信息论" scheme="http://1418019.top/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA/"/>
+      <category term="软件漏洞安全" scheme="http://1418019.top/tags/%E8%BD%AF%E4%BB%B6%E6%BC%8F%E6%B4%9E%E5%AE%89%E5%85%A8/"/>
     
   </entry>
   
@@ -598,11 +621,11 @@
     </summary>
     
     
+      <category term="软件逆向工程" scheme="http://1418019.top/tags/%E8%BD%AF%E4%BB%B6%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
+    
       <category term="编译原理" scheme="http://1418019.top/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/"/>
     
       <category term="法律法规" scheme="http://1418019.top/tags/%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84/"/>
-    
-      <category term="软件逆向工程" scheme="http://1418019.top/tags/%E8%BD%AF%E4%BB%B6%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
     
   </entry>
   
@@ -643,38 +666,9 @@
     </summary>
     
     
-      <category term="编译原理" scheme="http://1418019.top/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/"/>
-    
       <category term="软件逆向工程" scheme="http://1418019.top/tags/%E8%BD%AF%E4%BB%B6%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
     
-  </entry>
-  
-  <entry>
-    <title>3上第二周作业</title>
-    <link href="http://1418019.top/2016/09/05/G3%E7%AC%AC%E4%BA%8C%E5%91%A8%E4%BD%9C%E4%B8%9A/"/>
-    <id>http://1418019.top/2016/09/05/G3第二周作业/</id>
-    <published>2016-09-05T10:40:11.000Z</published>
-    <updated>2016-09-21T10:49:17.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="编译原理"><a href="#编译原理" class="headerlink" title="编译原理"></a>编译原理</h1><p>作业：1.1、1.2、1.3</p>
-<font color="red"><br><strong>截止日期：第四周(2016.09.19)上交作业</strong><br></font>
-
-<h1 id="法律法规"><a href="#法律法规" class="headerlink" title="法律法规"></a>法律法规</h1><p>作业: 纯正计算机犯罪的案例查询与分析</p>
-<font color="red"><br><strong>截止日期：下周三(2016.09.14)前发到教师邮箱<a href="&#x6d;&#x61;&#105;&#x6c;&#x74;&#111;&#58;&#x78;&#x74;&#x66;&#x75;&#64;&#109;&#x61;&#105;&#x6c;&#x2e;&#x78;&#105;&#x64;&#x69;&#x61;&#110;&#x2e;&#101;&#100;&#117;&#46;&#99;&#x6e;">&#x78;&#x74;&#x66;&#x75;&#64;&#109;&#x61;&#105;&#x6c;&#x2e;&#x78;&#105;&#x64;&#x69;&#x61;&#110;&#x2e;&#101;&#100;&#117;&#46;&#99;&#x6e;</a></strong><br></font>
-
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;编译原理&quot;&gt;&lt;a href=&quot;#编译原理&quot; class=&quot;headerlink&quot; title=&quot;编译原理&quot;&gt;&lt;/a&gt;编译原理&lt;/h1&gt;&lt;p&gt;作业：1.1、1.2、1.3&lt;/p&gt;
-&lt;font color=&quot;red&quot;&gt;&lt;br&gt;&lt;strong&gt;截止日期：第四周(2016
-    
-    </summary>
-    
-    
       <category term="编译原理" scheme="http://1418019.top/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/"/>
-    
-      <category term="法律法规" scheme="http://1418019.top/tags/%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84/"/>
     
   </entry>
   
