@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://1418019.top/"/>
-  <updated>2017-05-04T11:12:12.000Z</updated>
+  <updated>2017-05-20T08:53:03.000Z</updated>
   <id>http://1418019.top/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第12周作业</title>
+    <link href="http://1418019.top/2017/05/20/G32%E7%AC%AC12%E5%91%A8%E4%BD%9C%E4%B8%9A/"/>
+    <id>http://1418019.top/2017/05/20/G32第12周作业/</id>
+    <published>2017-05-20T08:51:28.000Z</published>
+    <updated>2017-05-20T08:53:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="信息论"><a href="#信息论" class="headerlink" title="信息论"></a>信息论</h1><p>内容：4.1，4.3，4.5</p>
+<p><strong>截止时间：未知</strong></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;信息论&quot;&gt;&lt;a href=&quot;#信息论&quot; class=&quot;headerlink&quot; title=&quot;信息论&quot;&gt;&lt;/a&gt;信息论&lt;/h1&gt;&lt;p&gt;内容：4.1，4.3，4.5&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;截止时间：未知&lt;/strong&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="信息论" scheme="http://1418019.top/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>第十周作业</title>
@@ -626,49 +650,6 @@
       <category term="编译原理" scheme="http://1418019.top/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/"/>
     
       <category term="法律法规" scheme="http://1418019.top/tags/%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>3上第三周作业</title>
-    <link href="http://1418019.top/2016/09/14/G3%E7%AC%AC%E4%B8%89%E5%91%A8%E4%BD%9C%E4%B8%9A/"/>
-    <id>http://1418019.top/2016/09/14/G3第三周作业/</id>
-    <published>2016-09-14T08:27:47.000Z</published>
-    <updated>2016-09-19T11:04:22.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="软件逆向工程"><a href="#软件逆向工程" class="headerlink" title="软件逆向工程"></a>软件逆向工程</h1><p>用x86汇编语言实现以下C语言函数功能(自选其中的3个完成):</p>
-<ul>
-<li>strlen()</li>
-<li>strchr()</li>
-<li>memcpy()</li>
-<li>memset()</li>
-<li>strcmp()</li>
-<li>strset()</li>
-</ul>
-<font color="red"><br><strong> DeadLine: 2016.10.15 23:59:59 </strong><br><strong>上交方式：发送到教师邮箱</strong><br></font>
-
-<h1 id="编译原理"><a href="#编译原理" class="headerlink" title="编译原理"></a>编译原理</h1><p>作业：</p>
-<ul>
-<li>2.1</li>
-<li>2.4、2.5</li>
-<li>2.6、2.8(a)、2.9(2)</li>
-</ul>
-<p><strong>ps.第二章的都可以做了</strong></p>
-<font color="red"><br><strong>上交时间：2016.09.26</strong><br></font>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;软件逆向工程&quot;&gt;&lt;a href=&quot;#软件逆向工程&quot; class=&quot;headerlink&quot; title=&quot;软件逆向工程&quot;&gt;&lt;/a&gt;软件逆向工程&lt;/h1&gt;&lt;p&gt;用x86汇编语言实现以下C语言函数功能(自选其中的3个完成):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;strlen()&lt;
-    
-    </summary>
-    
-    
-      <category term="软件逆向工程" scheme="http://1418019.top/tags/%E8%BD%AF%E4%BB%B6%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
-    
-      <category term="编译原理" scheme="http://1418019.top/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/"/>
     
   </entry>
   
