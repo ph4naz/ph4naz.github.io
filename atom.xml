@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://1418019.top/"/>
-  <updated>2017-05-23T09:05:38.000Z</updated>
+  <updated>2017-06-05T00:32:00.000Z</updated>
   <id>http://1418019.top/</id>
   
   <author>
@@ -14,6 +14,44 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>G32第13周作业</title>
+    <link href="http://1418019.top/2017/06/05/G32%E7%AC%AC13%E5%91%A8%E4%BD%9C%E4%B8%9A/"/>
+    <id>http://1418019.top/2017/06/05/G32第13周作业/</id>
+    <published>2017-06-05T00:31:26.000Z</published>
+    <updated>2017-06-05T00:32:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="信息论"><a href="#信息论" class="headerlink" title="信息论"></a>信息论</h1><p>作业: 5.1</p>
+<p><strong>截止时间: 未知</strong></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;信息论&quot;&gt;&lt;a href=&quot;#信息论&quot; class=&quot;headerlink&quot; title=&quot;信息论&quot;&gt;&lt;/a&gt;信息论&lt;/h1&gt;&lt;p&gt;作业: 5.1&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;截止时间: 未知&lt;/strong&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="信息论" scheme="http://1418019.top/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第13周作业</title>
+    <link href="http://1418019.top/2017/06/05/%E7%AC%AC13%E5%91%A8%E4%BD%9C%E4%B8%9A/"/>
+    <id>http://1418019.top/2017/06/05/第13周作业/</id>
+    <published>2017-06-05T00:30:54.000Z</published>
+    <updated>2017-06-05T00:30:54.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>移动通信安全课程相关</title>
@@ -399,13 +437,13 @@
     </summary>
     
     
-      <category term="逆向工程" scheme="http://1418019.top/tags/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
-    
-      <category term="WEB安全" scheme="http://1418019.top/tags/WEB%E5%AE%89%E5%85%A8/"/>
-    
       <category term="编译原理" scheme="http://1418019.top/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/"/>
     
       <category term="计算机操作系统" scheme="http://1418019.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="逆向工程" scheme="http://1418019.top/tags/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
+    
+      <category term="WEB安全" scheme="http://1418019.top/tags/WEB%E5%AE%89%E5%85%A8/"/>
     
       <category term="网络安全技术与理论" scheme="http://1418019.top/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF%E4%B8%8E%E7%90%86%E8%AE%BA/"/>
     
@@ -473,9 +511,9 @@
     </summary>
     
     
-      <category term="逆向工程" scheme="http://1418019.top/tags/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
-    
       <category term="编译原理" scheme="http://1418019.top/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/"/>
+    
+      <category term="逆向工程" scheme="http://1418019.top/tags/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
     
       <category term="嵌入式系统" scheme="http://1418019.top/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
     
@@ -572,67 +610,6 @@
       <category term="逆向工程" scheme="http://1418019.top/tags/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
     
       <category term="WEB安全" scheme="http://1418019.top/tags/WEB%E5%AE%89%E5%85%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>3第八周作业.md</title>
-    <link href="http://1418019.top/2016/10/19/G3%E7%AC%AC%E5%85%AB%E5%91%A8%E4%BD%9C%E4%B8%9A/"/>
-    <id>http://1418019.top/2016/10/19/G3第八周作业/</id>
-    <published>2016-10-19T07:22:43.000Z</published>
-    <updated>2016-10-28T05:57:35.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="软件逆向工程"><a href="#软件逆向工程" class="headerlink" title="软件逆向工程"></a>软件逆向工程</h1><p>上机作业内容见群文件</p>
-<p>上交方式：发送到教师邮箱</p>
-<p>邮件名称：“逆向上机作业1-学号姓名”</p>
-<font color="red"><br><strong>deadline:2016.11.15 23:59:59</strong><br></font>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;软件逆向工程&quot;&gt;&lt;a href=&quot;#软件逆向工程&quot; class=&quot;headerlink&quot; title=&quot;软件逆向工程&quot;&gt;&lt;/a&gt;软件逆向工程&lt;/h1&gt;&lt;p&gt;上机作业内容见群文件&lt;/p&gt;
-&lt;p&gt;上交方式：发送到教师邮箱&lt;/p&gt;
-&lt;p&gt;邮件名称：“逆向上机作业1-学号
-    
-    </summary>
-    
-    
-      <category term="软件逆向工程" scheme="http://1418019.top/tags/%E8%BD%AF%E4%BB%B6%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>3第七周作业</title>
-    <link href="http://1418019.top/2016/10/12/G3%E7%AC%AC%E4%B8%83%E5%91%A8%E4%BD%9C%E4%B8%9A/"/>
-    <id>http://1418019.top/2016/10/12/G3第七周作业/</id>
-    <published>2016-10-12T11:19:15.000Z</published>
-    <updated>2016-10-26T07:38:26.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="编译原理"><a href="#编译原理" class="headerlink" title="编译原理"></a>编译原理</h1><p>作业: 3.2, 3.3, 3.4</p>
-<font color="red"><br><strong>上交时间：下周一(2016.10.17)</strong><br></font>
-
-<h1 id="计算机操作系统"><a href="#计算机操作系统" class="headerlink" title="计算机操作系统"></a>计算机操作系统</h1><p>第二章作业: 7, 9, 10</p>
-<font color="red"><br><strong>上交时间：下下周一(2016.10.24)</strong><br></font>
-
-<h1 id="法律法规"><a href="#法律法规" class="headerlink" title="法律法规"></a>法律法规</h1><p><strong>结课作业格式要求：</strong></p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line">行间距：22磅</div><div class="line">标题</div><div class="line">姓名学号</div><div class="line">摘要</div><div class="line">关键词</div><div class="line">正文：</div><div class="line">1、引言 [A4半页（宋体小四)]</div><div class="line">2、（自选主题）</div><div class="line">3、（自选主题）</div><div class="line">4、结束语／结论</div><div class="line">参考文献</div></pre></td></tr></table></figure>
-<p><strong>其他要求：1. 3-5页（不要封面）2.打印、手写（A4大小纸手写）均可</strong></p>
-<font color="red"><br><strong>上交时间：2016.10.26（上课时交）</strong><br></font>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;编译原理&quot;&gt;&lt;a href=&quot;#编译原理&quot; class=&quot;headerlink&quot; title=&quot;编译原理&quot;&gt;&lt;/a&gt;编译原理&lt;/h1&gt;&lt;p&gt;作业: 3.2, 3.3, 3.4&lt;/p&gt;
-&lt;font color=&quot;red&quot;&gt;&lt;br&gt;&lt;strong&gt;上交时间：下周一(2
-    
-    </summary>
-    
-    
-      <category term="编译原理" scheme="http://1418019.top/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/"/>
-    
-      <category term="法律法规" scheme="http://1418019.top/tags/%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84/"/>
-    
-      <category term="计算机操作系统" scheme="http://1418019.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     
   </entry>
   
