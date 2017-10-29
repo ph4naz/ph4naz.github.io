@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title><![CDATA[信息安全综合实验-长期更新]]></title>
+      <url>http://1418019.top/2017/10/29/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C-%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0/</url>
+      <content type="html"><![CDATA[<h1 id="时间节点"><a href="#时间节点" class="headerlink" title="时间节点"></a>时间节点</h1><ol>
+<li>11月中旬提交选题报告</li>
+<li>11月底提交详细设计报告，并进行答辩(6课时)</li>
+<li>12月底系统演示，并进行结题答辩(8课时)</li>
+<li>1月初提交信息安全综合实验报告</li>
+</ol>
+<h1 id="考核标准"><a href="#考核标准" class="headerlink" title="考核标准"></a>考核标准</h1><ol>
+<li>开题答辩 20分</li>
+<li>详细设计方案 30分</li>
+<li>系统演示 30分</li>
+<li>文档报告 20分</li>
+</ol>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[毕业设计相关-长期更新]]></title>
+      <url>http://1418019.top/2017/10/29/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%E7%9B%B8%E5%85%B3-%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0/</url>
+      <content type="html"><![CDATA[<h1 id="时间节点："><a href="#时间节点：" class="headerlink" title="时间节点："></a>时间节点：</h1><ol>
+<li>11月1日至11月30日，审核学生资格，学生网上选题，发放毕业设计手册，毕业设计工作正式启动。 </li>
+</ol>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[第13周作业]]></title>
       <url>http://1418019.top/2017/06/05/G32%E7%AC%AC13%E5%91%A8%E4%BD%9C%E4%B8%9A/</url>
       <content type="html"><![CDATA[<h1 id="信息论"><a href="#信息论" class="headerlink" title="信息论"></a>信息论</h1><p>作业: 5.1</p>
@@ -339,7 +366,7 @@
 <font color="red"><br><strong>截止日期：第四周(2016.09.19)上交作业</strong><br></font>
 
 <h1 id="法律法规"><a href="#法律法规" class="headerlink" title="法律法规"></a>法律法规</h1><p>作业: 纯正计算机犯罪的案例查询与分析</p>
-<font color="red"><br><strong>截止日期：下周三(2016.09.14)前发到教师邮箱<a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#111;&#58;&#x78;&#x74;&#102;&#x75;&#64;&#x6d;&#97;&#105;&#x6c;&#46;&#x78;&#x69;&#x64;&#x69;&#97;&#x6e;&#x2e;&#101;&#x64;&#117;&#x2e;&#x63;&#x6e;">&#x78;&#x74;&#102;&#x75;&#64;&#x6d;&#97;&#105;&#x6c;&#46;&#x78;&#x69;&#x64;&#x69;&#97;&#x6e;&#x2e;&#101;&#x64;&#117;&#x2e;&#x63;&#x6e;</a></strong><br></font>
+<font color="red"><br><strong>截止日期：下周三(2016.09.14)前发到教师邮箱<a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#111;&#x3a;&#120;&#116;&#x66;&#117;&#x40;&#109;&#97;&#105;&#x6c;&#x2e;&#x78;&#x69;&#100;&#x69;&#x61;&#110;&#x2e;&#101;&#100;&#117;&#x2e;&#x63;&#x6e;">&#120;&#116;&#x66;&#117;&#x40;&#109;&#97;&#105;&#x6c;&#x2e;&#x78;&#x69;&#100;&#x69;&#x61;&#110;&#x2e;&#101;&#100;&#117;&#x2e;&#x63;&#x6e;</a></strong><br></font>
 
 ]]></content>
     </entry>
@@ -354,7 +381,7 @@
 <li>每个研究web安全方向的、均需要做、记录下过程及截图<br><font color="red"><br><strong>Deadline: 两周之内(2016.09.12)</strong><br></font><h1 id="软件逆向工程"><a href="#软件逆向工程" class="headerlink" title="软件逆向工程"></a>软件逆向工程</h1><strong>阅读论文并撰写阅读报告</strong></li>
 <li>Müller H A, Jahnke J H, Smith D B, et al. Reverse engineering: A roadmap[C] Proceedings of the Conference on the Future of Software Engineering. ACM, 2000: 47-60.</li>
 <li>Canfora G, Di Penta M, Cerulo L. Achievements and challenges in software reverse engineering[J]. Communications of the ACM, 2011, 54(4): 142-151.</li>
-<li>2选1(已上传群文件压缩包中)，写1篇1000字阅读报告，提交到<a href="&#x6d;&#x61;&#105;&#108;&#116;&#111;&#58;&#115;&#117;&#x6e;&#99;&#111;&#110;&#103;&#64;&#120;&#105;&#x64;&#x69;&#x61;&#110;&#x2e;&#101;&#100;&#x75;&#46;&#x63;&#x6e;">&#115;&#117;&#x6e;&#99;&#111;&#110;&#103;&#64;&#120;&#105;&#x64;&#x69;&#x61;&#110;&#x2e;&#101;&#100;&#x75;&#46;&#x63;&#x6e;</a>，文档题目“[学号]姓名-paper1/2”<font color="red"><br><strong>Deadline: 2016/09/30, 23:59:59</strong><br></font>
+<li>2选1(已上传群文件压缩包中)，写1篇1000字阅读报告，提交到<a href="&#109;&#x61;&#x69;&#108;&#x74;&#111;&#58;&#115;&#x75;&#x6e;&#x63;&#111;&#110;&#103;&#64;&#x78;&#105;&#100;&#105;&#x61;&#x6e;&#x2e;&#x65;&#x64;&#x75;&#x2e;&#99;&#110;">&#115;&#x75;&#x6e;&#x63;&#111;&#110;&#103;&#64;&#x78;&#105;&#100;&#105;&#x61;&#x6e;&#x2e;&#x65;&#x64;&#x75;&#x2e;&#99;&#110;</a>，文档题目“[学号]姓名-paper1/2”<font color="red"><br><strong>Deadline: 2016/09/30, 23:59:59</strong><br></font>
 </li>
 </ul>
 ]]></content>

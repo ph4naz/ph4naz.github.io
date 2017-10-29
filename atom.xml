@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://1418019.top/"/>
-  <updated>2017-06-05T00:32:43.000Z</updated>
+  <updated>2017-10-29T08:20:17.000Z</updated>
   <id>http://1418019.top/</id>
   
   <author>
@@ -14,6 +14,65 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>信息安全综合实验-长期更新</title>
+    <link href="http://1418019.top/2017/10/29/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C-%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0/"/>
+    <id>http://1418019.top/2017/10/29/信息安全综合实验-长期更新/</id>
+    <published>2017-10-29T08:08:59.000Z</published>
+    <updated>2017-10-29T08:20:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="时间节点"><a href="#时间节点" class="headerlink" title="时间节点"></a>时间节点</h1><ol>
+<li>11月中旬提交选题报告</li>
+<li>11月底提交详细设计报告，并进行答辩(6课时)</li>
+<li>12月底系统演示，并进行结题答辩(8课时)</li>
+<li>1月初提交信息安全综合实验报告</li>
+</ol>
+<h1 id="考核标准"><a href="#考核标准" class="headerlink" title="考核标准"></a>考核标准</h1><ol>
+<li>开题答辩 20分</li>
+<li>详细设计方案 30分</li>
+<li>系统演示 30分</li>
+<li>文档报告 20分</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;时间节点&quot;&gt;&lt;a href=&quot;#时间节点&quot; class=&quot;headerlink&quot; title=&quot;时间节点&quot;&gt;&lt;/a&gt;时间节点&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;11月中旬提交选题报告&lt;/li&gt;
+&lt;li&gt;11月底提交详细设计报告，并进行答辩(6课时)&lt;/li&gt;
+&lt;li&gt;12
+    
+    </summary>
+    
+    
+      <category term="信息安全综合实验" scheme="http://1418019.top/tags/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>毕业设计相关-长期更新</title>
+    <link href="http://1418019.top/2017/10/29/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%E7%9B%B8%E5%85%B3-%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0/"/>
+    <id>http://1418019.top/2017/10/29/毕业设计相关-长期更新/</id>
+    <published>2017-10-29T08:06:21.000Z</published>
+    <updated>2017-10-29T08:20:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="时间节点："><a href="#时间节点：" class="headerlink" title="时间节点："></a>时间节点：</h1><ol>
+<li>11月1日至11月30日，审核学生资格，学生网上选题，发放毕业设计手册，毕业设计工作正式启动。 </li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;时间节点：&quot;&gt;&lt;a href=&quot;#时间节点：&quot; class=&quot;headerlink&quot; title=&quot;时间节点：&quot;&gt;&lt;/a&gt;时间节点：&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;11月1日至11月30日，审核学生资格，学生网上选题，发放毕业设计手册，毕业设计工作正式启动。 &lt;/li
+    
+    </summary>
+    
+    
+      <category term="毕业设计" scheme="http://1418019.top/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>第13周作业</title>
@@ -559,69 +618,6 @@
     
     
       <category term="密码学" scheme="http://1418019.top/tags/%E5%AF%86%E7%A0%81%E5%AD%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>3第九周作业</title>
-    <link href="http://1418019.top/2016/11/02/G3%E7%AC%AC%E4%B9%9D%E5%91%A8%E4%BD%9C%E4%B8%9A/"/>
-    <id>http://1418019.top/2016/11/02/G3第九周作业/</id>
-    <published>2016-11-02T07:58:06.000Z</published>
-    <updated>2016-11-06T13:55:51.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="逆向工程"><a href="#逆向工程" class="headerlink" title="逆向工程"></a>逆向工程</h1><p>分析以下代码(见群文件)，完成代码分析报告</p>
-<ul>
-<li>InjectDll.cpp</li>
-<li>EjectDll.cpp</li>
-<li>MyDll.cpp</li>
-<li>MyDll2.cpp</li>
-</ul>
-<font color="red"><br><strong>Deadline: 2016.11.20 23:59:59</strong><br></font>
-
-<h1 id="WEB安全"><a href="#WEB安全" class="headerlink" title="WEB安全"></a>WEB安全</h1><p>XSS注入测试：html,js,css任选其一进行测试,具体要求(前者：漏洞成因与防御分析，后者：模拟测试，前者包含后者。)</p>
-<font color="red"><br><strong>Deadline: 2016.11.07之前</strong><br><br><strong>上交方式: 发送到教师邮箱</strong><br></font>
-
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;逆向工程&quot;&gt;&lt;a href=&quot;#逆向工程&quot; class=&quot;headerlink&quot; title=&quot;逆向工程&quot;&gt;&lt;/a&gt;逆向工程&lt;/h1&gt;&lt;p&gt;分析以下代码(见群文件)，完成代码分析报告&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;InjectDll.cpp&lt;/li&gt;
-&lt;li&gt;Ejec
-    
-    </summary>
-    
-    
-      <category term="逆向工程" scheme="http://1418019.top/tags/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
-    
-      <category term="WEB安全" scheme="http://1418019.top/tags/WEB%E5%AE%89%E5%85%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>3第八周作业.md</title>
-    <link href="http://1418019.top/2016/10/19/G3%E7%AC%AC%E5%85%AB%E5%91%A8%E4%BD%9C%E4%B8%9A/"/>
-    <id>http://1418019.top/2016/10/19/G3第八周作业/</id>
-    <published>2016-10-19T07:22:43.000Z</published>
-    <updated>2016-10-28T05:57:35.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="软件逆向工程"><a href="#软件逆向工程" class="headerlink" title="软件逆向工程"></a>软件逆向工程</h1><p>上机作业内容见群文件</p>
-<p>上交方式：发送到教师邮箱</p>
-<p>邮件名称：“逆向上机作业1-学号姓名”</p>
-<font color="red"><br><strong>deadline:2016.11.15 23:59:59</strong><br></font>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;软件逆向工程&quot;&gt;&lt;a href=&quot;#软件逆向工程&quot; class=&quot;headerlink&quot; title=&quot;软件逆向工程&quot;&gt;&lt;/a&gt;软件逆向工程&lt;/h1&gt;&lt;p&gt;上机作业内容见群文件&lt;/p&gt;
-&lt;p&gt;上交方式：发送到教师邮箱&lt;/p&gt;
-&lt;p&gt;邮件名称：“逆向上机作业1-学号
-    
-    </summary>
-    
-    
-      <category term="软件逆向工程" scheme="http://1418019.top/tags/%E8%BD%AF%E4%BB%B6%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
     
   </entry>
   
