@@ -9,29 +9,29 @@
   
   <title>第八周作业</title>
   <meta name="author" content="ph4naz">
-   <meta name="description" content="网络对抗原理作业：具体内容详见群文件实验2.pdf
+  <meta name="description" content="网络对抗原理作业：具体内容详见群文件实验2.pdf
 上交时间：未知">
   
-
+  
   <meta property="og:title" content="第八周作业"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta property="og:site_name" content="1418019.Homework"/>
- <meta property="og:image" content="undefined"/>
-  
   <link href="/apple-touch-icon-precomposed.png" sizes="180x180" rel="apple-touch-icon-precomposed">
   <link rel="alternate" href="/atom.xml" title="1418019.Homework" type="application/atom+xml">
   <link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.6/css/bootstrap.min.css">
-  <link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="/css/m.min.css">
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
 </head>
 
 <body>
+  <a id="top"></a>
   <div id="main">
     <div class="behind">
-      <div class="back">
-        <a href="/" class="black-color"><i class="fa fa-times" aria-hidden="true"></i></a>
-      </div>
+      <a href="/" class="back black-color">
+        <svg class="i-close" viewBox="0 0 32 32" width="22" height="22" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+            <path d="M2 30 L30 2 M30 30 L2 2"></path>
+        </svg>
+      </a>
       <div class="description">
         &nbsp;Home
       </div>
@@ -53,7 +53,10 @@
     <div class="meta center">
       
 <time datetime="2017-04-22T10:27:32.000Z">
-  <i class="fa fa-calendar"></i>&nbsp;
+<svg class="i-calendar" viewBox="0 0 32 32" width="14" height="14" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M2 6 L2 30 30 30 30 6 Z M2 15 L30 15 M7 3 L7 9 M13 3 L13 9 M19 3 L19 9 M25 3 L25 9"></path>
+  </svg>
+  &nbsp;
   2017-04-22
 </time>
 
@@ -64,7 +67,11 @@
 
     
     &nbsp;
-    <i class="fa fa-tag"></i>&nbsp;
+    <svg class="i-tag" viewBox="0 0 32 32" width="14" height="14" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+      <circle cx="24" cy="8" r="2"></circle>
+      <path d="M2 18 L18 2 30 2 30 14 14 30 Z"></path>
+    </svg>
+    &nbsp;
     <a href="/tags/网络对抗原理/">网络对抗原理</a>
 
 
@@ -82,9 +89,9 @@
     <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
   </script>
   <div class="busuanzi center">
-    页阅读量:&nbsp;<span id="busuanzi_value_page_pv"></span>&nbsp;・&nbsp;
-    站访问量:&nbsp;<span id="busuanzi_value_site_pv"></span>&nbsp;・&nbsp;
-    站访客数:&nbsp;<span id="busuanzi_value_site_uv"></span>
+    page PV:&nbsp;<span id="busuanzi_value_page_pv"></span>&nbsp;・&nbsp;
+    site PV:&nbsp;<span id="busuanzi_value_site_pv"></span>&nbsp;・&nbsp;
+    site UV:&nbsp;<span id="busuanzi_value_site_uv"></span>
   </div>
 
 
@@ -96,8 +103,10 @@
 </div>
 <div class="right-foot container">
     <div class="firstrow">
-        <a href="#top" >
-        <i class="fa fa-arrow-right"></i>
+        <a href="#top" target="_self">
+        <svg class="i-caret-right" viewBox="0 0 32 32" width="24" height="24" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+            <path d="M10 30 L26 16 10 2 Z"></path>
+        </svg>
         </a>
         © 1418019 2015-2017
     </div>
@@ -111,21 +120,8 @@
 </div>
 </footer>
   <script src="//cdn.bootcss.com/jquery/2.2.1/jquery.min.js"></script>
-<script src="/js/search.js"></script>
+<script src="/js/search.min.js"></script>
 <script type="text/javascript">
-
-// comments below to disable loading animation
-function revealOnScroll() {
-  var scrolled = $(window).scrollTop();
-  $(".excerpt, .index-title, .index-meta, p").each(function() {
-    var current = $(this),
-      height = $(window).outerHeight(),
-      offsetTop = current.offset().top;
-    (scrolled + height + 50 > offsetTop) ? current.addClass("animation"):'';
-  });
-}
-$(window).on("scroll", revealOnScroll);
-$(document).ready(revealOnScroll)
 
 // disqus scripts
 
@@ -139,13 +135,6 @@ $(".dropdown").click(function(event) {
 $(document).click(function(){
     $(".dropdown-content").removeClass("open");
 })
-
-// back to top scripts
-$("a[href='#top']").click(function() {
-  $("html, body").animate({ scrollTop: 0 }, 500);
-  return false;
-});
-
 
 var path = "/search.xml";
 searchFunc(path, 'local-search-input', 'local-search-result');
